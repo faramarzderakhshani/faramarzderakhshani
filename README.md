@@ -91,3 +91,5 @@
 <p align="center">
   <i>“Clean systems don't need complex fixes.” – Me</i>
 </p>
+
+[🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
