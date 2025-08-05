@@ -80,14 +80,6 @@
 
 ---
 
-## ✨ Fun Facts
-
-- 🐧 I’m a Linux enthusiast and love working in CLI
-- ⚙️ I use dotfiles and shell scripts to automate everything
-- 💬 I speak Persian, English, and a bit of shell 😄
-
----
-
 <p align="center">
   <i>“Clean systems don't need complex fixes.” – Me</i>
 </p>
