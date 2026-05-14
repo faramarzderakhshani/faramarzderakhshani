@@ -5,7 +5,7 @@
 <p style="text-align: right; direction: rtl;"">
   💡 مهندس DevOps و معمار زیرساخت با تمرکز بر Linux Infrastructure، Backend Systems، AI Platforms، اتوماسیون، معماری نرم‌افزارهای مقیاس‌پذیر و طراحی سیستم‌های Cloud-Native
 </p>
-
+<br><br>
 
 <h2 style="text-align: right; direction: rtl;">حوزه تمرکز مهندسی</h2>
 
@@ -16,8 +16,7 @@
 - 🛰️ Real-time Backend & Orchestration Systems
 - 🤖 Autonomous Platforms & Agent-based Software
 - 🧩 Modular Software Architecture & Platform Engineering
-
-
+<br><br>
 
 <h2 style="text-align: right; direction: rtl;">📦 پروژه‌ها و زیرساخت‌ها</h2>
 
@@ -29,43 +28,33 @@
   <strong>متا کور Meta Core</strong><br> لایه orchestration و runtime برای مدیریت سرویس‌ها، workloadها و پردازش سیستم‌های AI و زیرساخت‌های هوشمند
 </p>
 <p style="text-align: right; direction: rtl;">
-  <strong>ای آی فول پک AI Full Pack</strong><br>  پلتفرم WordPress + AI جهت مدیریت مدل‌های هوش مصنوعی، تولید محتوا، inference و پردازش خودکار
+  <strong>ای آی فول پک AI Full Pack</strong><br> پلتفرم WordPress + AI جهت مدیریت مدل‌های هوش مصنوعی، تولید محتوا، inference و پردازش خودکار
 </p>
-  
-
-🔐 **XInfraSec**  
-  زیرساخت امن ارتباطی مبتنی بر TLS، Xray-core، reverse proxy و traffic masking برای سرویس‌های حساس شبکه
-
-🛰️ **InfraHub**  
-  معماری Multi-Tenant برای مدیریت سرویس‌ها، routing زیر دامنه‌ها و orchestration سرویس‌های سازمانی
-
-🛠️ **ServaNet**  
-  شبکه ارتباطی ایمن بین سرورهای لینوکسی خصوصی با مدیریت سرویس، تونل‌سازی و ارتباط داخلی خوشه‌ای
-
-🧭 **NetPilot**  
-  سیستم DNS/Proxy Routing با تحلیل CDN، failover خودکار و مدیریت هوشمند مسیرهای شبکه
-
-🔐 **SSHGuard**  
-  سیستم مدیریت Bastion Host با audit logging، key rotation و کنترل دسترسی امن برای زیرساخت‌های لینوکسی
-
-🌐 **HardenWP**  
-  زیرساخت WordPress Hardened مبتنی بر NGINX، isolation لایه‌ای، امنیت کانتینری و reverse proxy architecture
-
-🤖 **BotFleet**  
-  فریمورک حرفه‌ای Telegram Bot با CI/CD، معماری ماژولار و مانیتورینگ بلادرنگ سرویس‌ها
+<p style="text-align: right; direction: rtl;">
+  <strong>زینفراسک XInfraSec</strong><br> زیرساخت امن ارتباطی مبتنی بر TLS، Xray-core، reverse proxy و traffic masking برای سرویس‌های حساس شبکه
+</p>
+<p style="text-align: right; direction: rtl;">
+  <strong>اینفراهاب InfraHub</strong><br> معماری Multi-Tenant برای مدیریت سرویس‌ها، routing زیر دامنه‌ها و orchestration سرویس‌های سازمانی
+</p>
+<p style="text-align: right; direction: rtl;">
+  <strong>سروانت ServaNet</strong><br>شبکه ارتباطی ایمن بین سرورهای لینوکسی خصوصی با مدیریت سرویس، تونل‌سازی و ارتباط داخلی خوشه‌ای سازمانی
+</p>
+<p style="text-align: right; direction: rtl;">
+  <strong>نت پایلوت NetPilot</strong><br> سیستم DNS/Proxy Routing با تحلیل CDN، failover خودکار و مدیریت هوشمند مسیرهای شبکه
+</p>
+<p style="text-align: right; direction: rtl;">
+  <strong>اس اس اچ گارد SSHGuard</strong><br> سیستم مدیریت Bastion Host با audit logging، key rotation و کنترل دسترسی امن برای زیرساخت‌های لینوکسی
+</p>
+<p style="text-align: right; direction: rtl;">
+  <strong>هاردن دبلو پی HardenWP</strong><br> زیرساخت WordPress Hardened مبتنی بر NGINX، isolation لایه‌ای، امنیت کانتینری و reverse proxy architecture
+</p>
+<p style="text-align: right; direction: rtl;">
+  <strong>بات فلیت BotFleet</strong><br> فریمورک حرفه‌ای Telegram Bot با CI/CD، معماری ماژولار و مانیتورینگ بلادرنگ سرویس‌ها
+</p>
 </div>
+<br><br>
 
-
-<table>
-<tr>
-  <td><strong>UpHide</strong></td>
-  <td> پلتفرم مدیریت و اتوماسیون شبکه‌های VPN مبتنی بر Xray-core با API اختصاصی، Telegram Bot، مدیریت نود و معماری ماژولار</td>
-</tr>
-</table>
-
-
-## 🧩 معماری نرم‌افزار و طراحی سیستم
-
+<h2 style="text-align: right; direction: rtl;">🧩 معماری نرم‌افزار و طراحی سیستم</h2>
 - 🧱 طراحی معماری‌های ماژولار و قابل نگهداری برای Backend Platformها
 - ⚙️ توسعه سیستم‌های Plugin-based و API-driven
 - ☁️ طراحی پلتفرم‌های SaaS و زیرساخت‌های Multi-Tenant
@@ -76,12 +65,12 @@
 - 🛠️ توسعه Runtime Layer و Service Management برای سرویس‌های AI
 - 📦 طراحی پلتفرم‌های Cloud-Native و Infrastructure Automation
 
+<br><br>
 
-## 🧰 تکنولوژی‌ها و مهارت‌ها
-
+<h2 style="text-align: right; direction: rtl;">🧰 تکنولوژی‌ها و مهارت‌ها</h2>
 <table style="text-align: right; direction: rtl;">
 <tr>
-  <td><strong>هوش مصنوعی و AI Systems</strong></td>
+  <td><strong>هوش مصنوعی و سیستمهای AI</strong></td>
   <td>AI Backend Systems، Agent-based Software، Inference Pipelines، Real-time AI Processing، AI Infrastructure Design، ML/DL Runtime Systems</td>
 </tr>
 
@@ -131,10 +120,12 @@
 </tr>
 </table>
 
+<br><br>
 
-## 🌍 ارتباط با من
+<h2 style="text-align: right; direction: rtl;">🌍 ارتباط با من</h2>
 
 📫 ایمیل: `fvrvmvrx@gmail.com`
+<br><br>
 
 [🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
 </div>
