@@ -1,5 +1,5 @@
 <!-- GitHub Profile README by Faramarz Derakhshani -->
-<h1 align="right">Bonjour, je suis Faramarz Derakhshani</h1>
+<h1 align="left">Bonjour, je suis Faramarz Derakhshani</h1>
 
 ## À propos de moi
 💡 DevOps Engineer et Infrastructure Architect spécialisé dans les infrastructures Linux, les systèmes backend, les plateformes d’intelligence artificielle, l’automatisation, les architectures logicielles évolutives et les systèmes Cloud-Native.
