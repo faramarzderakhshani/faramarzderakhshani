@@ -55,16 +55,33 @@
 <br><br>
 
 <h2 style="text-align: right; direction: rtl;">🧩 معماری نرم‌افزار و طراحی سیستم</h2>
-- 🧱 طراحی معماری‌های ماژولار و قابل نگهداری برای Backend Platformها
-- ⚙️ توسعه سیستم‌های Plugin-based و API-driven
-- ☁️ طراحی پلتفرم‌های SaaS و زیرساخت‌های Multi-Tenant
-- 🛰️ طراحی سیستم‌های Orchestration و مدیریت سرویس‌ها
-- 🔐 پیاده‌سازی معماری‌های DevSecOps و Secure Infrastructure
-- 🧠 توسعه سیستم‌های AI Backend و Agent-based Software
-- ⚡ طراحی Real-time Processing Systems و Data Pipelines
-- 🛠️ توسعه Runtime Layer و Service Management برای سرویس‌های AI
-- 📦 طراحی پلتفرم‌های Cloud-Native و Infrastructure Automation
-
+<p style="text-align: right; direction: rtl;">
+🧱 طراحی معماری‌های ماژولار و قابل نگهداری برای Backend Platformها
+</p>
+<p style="text-align: right; direction: rtl;">
+⚙️ توسعه سیستم‌های Plugin-based و API-driven
+</p>
+<p style="text-align: right; direction: rtl;">
+☁️ طراحی پلتفرم‌های SaaS و زیرساخت‌های Multi-Tenant
+</p>
+<p style="text-align: right; direction: rtl;">
+🛰️ طراحی سیستم‌های Orchestration و مدیریت سرویس‌ها
+</p>
+<p style="text-align: right; direction: rtl;">
+🔐 پیاده‌سازی معماری‌های DevSecOps و Secure Infrastructure
+</p>
+<p style="text-align: right; direction: rtl;">
+🧠 توسعه سیستم‌های AI Backend و Agent-based Software
+</p>
+<p style="text-align: right; direction: rtl;">
+⚡ طراحی Real-time Processing Systems و Data Pipelines
+</p>
+<p style="text-align: right; direction: rtl;">
+🛠️ توسعه Runtime Layer و Service Management برای سرویس‌های AI
+</p>
+<p style="text-align: right; direction: rtl;">
+📦 طراحی پلتفرم‌های Cloud-Native و Infrastructure Automation
+</p>
 <br><br>
 
 <h2 style="text-align: right; direction: rtl;">🧰 تکنولوژی‌ها و مهارت‌ها</h2>
