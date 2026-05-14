@@ -1,12 +1,10 @@
-<!-- GitHub Profile README by Faramarz Derakhshani -->
-
-
 <div style="text-align: right; direction: rtl;">
-
 <h1 style="text-align: right; direction: rtl;">سلام، من فرامرز درخشانی هستم</h1>
 
 ## درباره من
-💡 مهندس DevOps و معمار زیرساخت با تمرکز بر Linux Infrastructure، Backend Systems، AI Platforms، اتوماسیون، معماری نرم‌افزارهای مقیاس‌پذیر و طراحی سیستم‌های Cloud-Native
+<p style="text-align: right; direction: rtl;"">
+  💡 مهندس DevOps و معمار زیرساخت با تمرکز بر Linux Infrastructure، Backend Systems، AI Platforms، اتوماسیون، معماری نرم‌افزارهای مقیاس‌پذیر و طراحی سیستم‌های Cloud-Native
+</p>
 
 ---
 
@@ -24,8 +22,12 @@
 
 ## 📦 پروژه‌ها و زیرساخت‌ها
 
-⚙️ **UpHide**  
-  پلتفرم مدیریت و اتوماسیون شبکه‌های VPN مبتنی بر Xray-core با API اختصاصی، Telegram Bot، مدیریت نود و معماری ماژولار
+<div style="text-align: right; direction: rtl;">
+  <p style="text-align: right; direction: rtl;">
+    ⚙️ **UpHide**  
+      پلتفرم مدیریت و اتوماسیون شبکه‌های VPN مبتنی بر Xray-core با API اختصاصی، Telegram Bot، مدیریت نود و معماری ماژولار
+
+  </p>
 
 🧠 **Meta Core**  
   لایه orchestration و runtime برای مدیریت سرویس‌ها، workloadها و پردازش سیستم‌های AI و زیرساخت‌های هوشمند
@@ -54,6 +56,15 @@
 🤖 **BotFleet**  
   فریمورک حرفه‌ای Telegram Bot با CI/CD، معماری ماژولار و مانیتورینگ بلادرنگ سرویس‌ها
 
+</div>
+
+
+<table>
+<tr>
+  <td><strong>UpHide</strong></td>
+  <td> پلتفرم مدیریت و اتوماسیون شبکه‌های VPN مبتنی بر Xray-core با API اختصاصی، Telegram Bot، مدیریت نود و معماری ماژولار</td>
+</tr>
+</table>
 
 ---
 
