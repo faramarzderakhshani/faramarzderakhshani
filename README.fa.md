@@ -1,5 +1,9 @@
 <!-- GitHub Profile README by Faramarz Derakhshani -->
-<h1 align="right">سلام، من فرامرز درخشانی هستم</h1>
+
+
+<div style="text-align: right; direction: rtl;">
+
+<h1 style="text-align: right; direction: rtl;">سلام، من فرامرز درخشانی هستم</h1>
 
 ## درباره من
 💡 مهندس DevOps و معمار زیرساخت با تمرکز بر Linux Infrastructure، Backend Systems، AI Platforms، اتوماسیون، معماری نرم‌افزارهای مقیاس‌پذیر و طراحی سیستم‌های Cloud-Native
@@ -128,3 +132,4 @@
 📫 ایمیل: `fvrvmvrx@gmail.com`
 
 [🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
+</div>
