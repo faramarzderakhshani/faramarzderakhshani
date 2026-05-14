@@ -1,5 +1,5 @@
 <!-- GitHub Profile README by Faramarz Derakhshani -->
-<h1 align="right">Merhaba, ben Faramarz Derakhshani</h1>
+<h1 align="left">Merhaba, ben Faramarz Derakhshani</h1>
 
 ## Hakkımda
 💡 Linux Infrastructure, Backend Systems, AI platformları, otomasyon, ölçeklenebilir yazılım mimarileri ve Cloud-Native sistem tasarımı üzerine çalışan bir DevOps Engineer ve Infrastructure Architect.
