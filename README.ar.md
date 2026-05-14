@@ -1,83 +1,128 @@
 <!-- GitHub Profile README by Faramarz Derakhshani -->
-<h1 align="right">مرحباً، أنا فرامرز 👨‍💻</h1>
+<h1 align="right">مرحبًا، أنا فرامرز درخشاني</h1>
 
-<p align="right">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;DevOps+Engineer;Linux+Automation+Expert;Clean+Architecture+Lover;Cybersecurity+Explorer&left=true&width=700&height=45">
-</p>
-
----
-
-## 🚀 حولي
-
-🎯 شغوف ببناء أنظمة **قابلة للتوسع**، **آمنة**، وذات **هيكل نظيف**  
-🔧 مختص في DevOps والأتمتة عبر البنى التحتية الحديثة المبنية على **لينُكس**  
-💡 دائم الاستكشاف لمجالات **المصادر المفتوحة**، **الاختراق الأخلاقي**، و**الأنظمة الموزعة**
+## نبذة عني
+💡 مهندس DevOps ومهندس بنية تحتية متخصص في Linux Infrastructure وBackend Systems ومنصات الذكاء الاصطناعي والأتمتة وتصميم الأنظمة القابلة للتوسع والبنى Cloud-Native.
 
 ---
 
-## 🧰 التقنيات التي أستخدمها
+## 🎯 مجالات التركيز الهندسي
+- 🧠 بنية الذكاء الاصطناعي وأنظمة Inference
+- ⚙️ أتمتة لينكس والخدمات الموزعة
+- ☁️ منصات Cloud-Native وMulti-Tenant
+- 🔐 DevSecOps والبنى التحتية الآمنة
+- 🛰️ أنظمة Backend اللحظية وOrchestration
+- 🤖 المنصات الذاتية والبرمجيات المعتمدة على الوكلاء
+- 🧩 هندسة المنصات والمعمارية البرمجية المعيارية
+
+---
+
+## 📦 المشاريع والبنية التحتية
+
+- ⚙️ **UpHide**  
+  منصة لإدارة وأتمتة شبكات VPN تعتمد على Xray-core مع API مخصص وTelegram Bot وإدارة للعقد وبنية معيارية.
+
+- 🧠 **Meta Core**  
+  طبقة orchestration وruntime لإدارة الخدمات وworkloads وأنظمة معالجة الذكاء الاصطناعي والبنى التحتية الذكية.
+
+- 🤖 **AI Full Pack**  
+  منصة WordPress + AI لإدارة نماذج الذكاء الاصطناعي وتوليد المحتوى وعمليات inference وأنظمة المعالجة المؤتمتة.
+
+- 🔐 **XInfraSec**  
+  منصة بنية تحتية آمنة تعتمد على TLS وXray-core وreverse proxy وتقنيات متقدمة لإخفاء حركة المرور للخدمات الحساسة.
+
+- 🛰️ **InfraHub**  
+  معمارية Multi-Tenant لإدارة الخدمات وتوجيه النطاقات الفرعية وorchestration للخدمات المؤسسية.
+
+- 🛠️ **ServaNet**  
+  طبقة اتصال آمنة بين خوادم لينكس الخاصة مع إدارة الخدمات والأنفاق الشبكية والتواصل الداخلي العنقودي.
+
+- 🧭 **NetPilot**  
+  نظام DNS/Proxy Routing مع تحليل CDN وfailover تلقائي وإدارة ذكية لمسارات الشبكة.
+
+- 🔐 **SSHGuard**  
+  نظام لإدارة Bastion Hosts مع audit logging وتدوير المفاتيح والتحكم الآمن بالوصول للبنى التحتية.
+
+- 🌐 **HardenWP**  
+  بنية WordPress محصنة تعتمد على NGINX والعزل متعدد الطبقات وأمن الحاويات وreverse proxy architecture.
+
+- 🤖 **BotFleet**  
+  إطار عمل احترافي لبوتات Telegram مع CI/CD وبنية معيارية ومراقبة آنية للخدمات.
+
+---
+
+## 🧩 هندسة البرمجيات وتصميم الأنظمة
+
+- 🧱 تصميم معماريات معيارية وقابلة للصيانة لمنصات Backend
+- ⚙️ تطوير أنظمة Plugin-based وAPI-driven
+- ☁️ تصميم منصات SaaS وبنى Multi-Tenant
+- 🛰️ تطوير أنظمة orchestration وطبقات إدارة الخدمات
+- 🔐 تنفيذ معماريات DevSecOps والبنى التحتية الآمنة
+- 🧠 تطوير أنظمة AI Backend وبرمجيات Agent-based
+- ⚡ تصميم أنظمة المعالجة اللحظية وData Pipelines
+- 🛠️ بناء Runtime Layers وأنظمة إدارة الخدمات لأحمال الذكاء الاصطناعي
+- 📦 تطوير منصات Cloud-Native وأنظمة أتمتة البنية التحتية
+
+---
+
+## 🧰 التقنيات والمهارات
 
 <table>
 <tr>
+  <td><strong>الذكاء الاصطناعي والأنظمة الذكية</strong></td>
+  <td>AI Backend Systems, Agent-based Software, Inference Pipelines, Real-time AI Processing, AI Infrastructure Design, ML/DL Runtime Systems</td>
+</tr>
+
+<tr>
+  <td><strong>Backend وAPIs</strong></td>
+  <td>FastAPI, Flask, Uvicorn, SQLAlchemy, REST APIs, JWT Authentication, WebSocket, Aiogram, Microservices</td>
+</tr>
+
+<tr>
+  <td><strong>DevOps والبنية التحتية</strong></td>
+  <td>Docker, NGINX, Systemd, GitHub Actions, CI/CD, Reverse Proxy, Linux Automation, Observability</td>
+</tr>
+
+<tr>
+  <td><strong>لينكس والشبكات</strong></td>
+  <td>Linux Server Administration, Ubuntu/Debian, SSH, DNS Routing, VPN Infrastructure, TLS/SSL, Xray-core, CDN Detection</td>
+</tr>
+
+<tr>
+  <td><strong>هندسة البرمجيات</strong></td>
+  <td>Modular Architecture, SaaS Platforms, Multi-Tenant Systems, PaaS Design, Plugin-based Ecosystems, Cloud-Native Systems</td>
+</tr>
+
+<tr>
+  <td><strong>الأمن وDevSecOps</strong></td>
+  <td>DevSecOps, Bastion Hosts, Audit Logging, Container Hardening, WordPress Security, Secure Infrastructure, Traffic Masking</td>
+</tr>
+
+<tr>
+  <td><strong>Frontend</strong></td>
+  <td>React, Vite, TailwindCSS, SPA Architecture, UI Integration</td>
+</tr>
+
+<tr>
+  <td><strong>قواعد البيانات</strong></td>
+  <td>PostgreSQL, SQLite, Query Optimization, Multi-Tenant Data Design</td>
+</tr>
+
+<tr>
   <td><strong>اللغات</strong></td>
-  <td>Python, Bash, JavaScript, SQL</td>
+  <td>Python, Bash, JavaScript, TypeScript, SQL, HTML/CSS</td>
 </tr>
+
 <tr>
-  <td><strong>الخلفية</strong></td>
-  <td>FastAPI, Flask, SQLite, PostgreSQL</td>
-</tr>
-<tr>
-  <td><strong>DevOps</strong></td>
-  <td>Docker, Systemd, GitHub Actions, Nginx</td>
-</tr>
-<tr>
-  <td><strong>الأدوات</strong></td>
-  <td>Linux, Git, VSCode, GCP, Telegram Bot, WPScan</td>
+  <td><strong>الأدوات والمنصات</strong></td>
+  <td>Git, VSCode, GCP, WPScan, Telegram Bots, Monitoring Stack, Automation Tooling</td>
 </tr>
 </table>
 
 ---
 
-## 📦 المشاريع والبنى التحتية البارزة
+## 🌍 التواصل
 
-- ⚙️ **UpHide** – نظام VPN مؤتمت بالكامل باستخدام FastAPI + Aiogram 3.21 + Xray-core  
-- 🧠 **XInfraSec** – منصة بنية تحتية مؤمنة باستخدام TLS و Xray-core وتغليف حركة مرور متقدم  
-- 🛰️ **InfraHub** – بنية تحتية داخلية لخدمات مؤسسات متعددة المستأجرين مع توجيه حسب النطاق الفرعي  
-- 🛠️ **ServaNet** – بنية اتصالات آمنة لخوادم لينُكس الخاصة  
-- 🧭 **NetPilot** – نظام توجيه تلقائي DNS/Proxy مع كشف CDN ونفق احتياطي  
-- 🔐 **SSHGuard** – مدير مضيف قنطرة تلقائي مع تسجيل مراجعة وتدوير المفاتيح  
-- 🌐 **HardenWP** – استضافة ووردبريس مؤمنة تعتمد على NGINX مع أمان متعدد الطبقات  
-- 🤖 **BotFleet** – إطار بوت تيليجرام احترافي مع CI/CD وقدرات مراقبة
-
----
-
-## 🧩 هندسة البرمجيات والمنتجات
-
-- 🧱 تصميم **منصات** أساسية وأطر خوادم معيارية  
-- 🏗️ بناء حزم **أساسية** قابلة لإعادة الاستخدام لنشر سريع  
-- ⚙️ تطوير بيئات قائمة على **الإضافات** مع واجهات برمجة تطبيقات مخصصة  
-- ☁️ تقديم منتجات SaaS كاملة بهيكل نظيف ومتعدد المستأجرين  
-- 🛠️ منصات PaaS صغيرة للنشر والتنسيق القابل للتوسع  
-- 🧠 تصميم على مستوى النظام لأنظمة **مقسمة، قابلة للصيانة، وآمنة**  
-- 📦 إدارة منتجات قائمة على DevSecOps مع الأتمتة والرصد
-
----
-
-## 🌍 تواصل معي
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-الملف_الشخصي-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/faramarz-derakhshani)  
-[![Upwork](https://img.shields.io/badge/Upwork-مستقل-brightgreen?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01b0220ff9466dec7f)  
-📫 البريد الإلكتروني: fvrvmvrx@gmail.com
-
----
-
-## 📊 إحصائيات GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faramarzderakhshani&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faramarzderakhshani&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
+📫 البريد الإلكتروني: `fvrvmvrx@gmail.com`
 
 [🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
