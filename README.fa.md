@@ -1,10 +1,8 @@
 <!-- GitHub Profile README by Faramarz Derakhshani -->
 <h1 align="right">سلام، من فرامرز درخشانی هستم 👨‍💻</h1>
 
-
 ## درباره من
 💡 کارشناس برنامه نویسی DevOps - تحت وب - اتوماسیون - زیرساخت‌های مدرن مبتنی بر لینوکس - سیستم‌های مقیاس‌پذیر
-
 
 ## 🧰 تکنولوژی‌ها و مهارت‌ها
 <table>
@@ -25,7 +23,6 @@
   <td>Linux، Git، VSCode، GCP، بات تلگرام، WPScan</td>
 </tr>
 </table>
-
 
 ## 📦 پروژه‌ها و زیرساخت‌ها
 - ⚙️ **UpHide** – سیستم خودکار ارائه VPN با FastAPI + Aiogram 3.21 + Xray-core  
@@ -53,11 +50,8 @@
 - 🛰️ طراحی و پیاده‌سازی زیرساخت سرورهای AI (GPU/CPU orchestration & inference layers)
 - 🔬 توسعه نرم‌افزارهای نزدیک به سطح سیستم برای AI runtime و orchestration
 - 🧰 طراحی پلتفرم‌های نرم‌افزاری سطح OS-like برای مدیریت سرویس‌های هوشمند و workloadها
----
 
 ## 🌍 ارتباط با من
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-پروفایل-آبی?style=flat&logo=linkedin)](https://www.linkedin.com/in/faramarz-derakhshani)  
-[![Upwork](https://img.shields.io/badge/Upwork-فریلنسر-سبز?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01b0220ff9466dec7f)  
 📫 ایمیل: fvrvmvrx@gmail.com
 
 
