@@ -60,10 +60,5 @@
 [![Upwork](https://img.shields.io/badge/Upwork-فریلنسر-سبز?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01b0220ff9466dec7f)  
 📫 ایمیل: fvrvmvrx@gmail.com
 
-## 📊 آمار گیت‌هاب
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faramarzderakhshani&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faramarzderakhshani&layout=compact&theme=tokyonight" height="180"/>
-</p>
 
 [🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
