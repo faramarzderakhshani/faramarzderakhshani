@@ -16,14 +16,14 @@
 - 🧩 Modular Software Architecture & Platform Engineering
 
 ---
-<div dir="rtl" style="text-align: right;" align="right">
+<div dir="rtl" align="right">
 
 ## 📦 پروژه‌ها و زیرساخت‌ها
 
-- ⚙️ **UpHide**  
+⚙️ **UpHide**  
   پلتفرم مدیریت و اتوماسیون شبکه‌های VPN مبتنی بر Xray-core با API اختصاصی، Telegram Bot، مدیریت نود و معماری ماژولار
 
-- 🧠 **Meta Core**  
+🧠 **Meta Core**  
   لایه orchestration و runtime برای مدیریت سرویس‌ها، workloadها و پردازش سیستم‌های AI و زیرساخت‌های هوشمند
 
 - 🤖 **AI Full Pack**  
