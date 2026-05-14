@@ -16,7 +16,7 @@
 - 🧩 Modular Software Architecture & Platform Engineering
 
 ---
-<div dir="rtl" align="right">
+
 
 ## 📦 پروژه‌ها و زیرساخت‌ها
 
@@ -50,7 +50,7 @@
 - 🤖 **BotFleet**  
   فریمورک حرفه‌ای Telegram Bot با CI/CD، معماری ماژولار و مانیتورینگ بلادرنگ سرویس‌ها
 
-</div>
+
 ---
 
 ## 🧩 معماری نرم‌افزار و طراحی سیستم
