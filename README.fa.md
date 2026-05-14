@@ -33,54 +33,44 @@
 - 🔬 توسعه نرم‌افزارهای نزدیک به سطح سیستم برای AI runtime و orchestration
 - 🧰 طراحی پلتفرم‌های نرم‌افزاری سطح OS-like برای مدیریت سرویس‌های هوشمند و workloadها
 
-
 ## 🧰 تکنولوژی‌ها و مهارت‌ها
 <table>
 <tr>
   <td><strong>زبان‌ها</strong></td>
   <td>Python، Bash، JavaScript، TypeScript، SQL، HTML/CSS</td>
 </tr>
-
 <tr>
   <td><strong>بک‌اند و API</strong></td>
   <td>FastAPI، Flask، Uvicorn، SQLAlchemy، REST API، JWT Auth، WebSocket، Aiogram، Microservices</td>
 </tr>
-
 <tr>
   <td><strong>فرانت‌اند</strong></td>
   <td>React، Vite، TailwindCSS، SPA Architecture، UI Integration</td>
 </tr>
-
 <tr>
   <td><strong>پایگاه داده</strong></td>
   <td>PostgreSQL، SQLite، Query Optimization، Multi-Tenant Data Design</td>
 </tr>
-
 <tr>
   <td><strong>DevOps و زیرساخت</strong></td>
   <td>Docker، Nginx، Systemd، GitHub Actions، CI/CD، Linux Automation، Reverse Proxy، Observability</td>
 </tr>
-
 <tr>
   <td><strong>لینوکس و شبکه</strong></td>
   <td>Linux Server Administration، Ubuntu/Debian، SSH، DNS Routing، VPN Infrastructure، TLS/SSL، Xray-core، CDN Detection</td>
 </tr>
-
 <tr>
   <td><strong>معماری نرم‌افزار</strong></td>
   <td>Modular Architecture، SaaS Platforms، Multi-Tenant Systems، PaaS Design، Plugin-Based Ecosystems، Cloud-Native Systems</td>
 </tr>
-
 <tr>
   <td><strong>امنیت و DevSecOps</strong></td>
   <td>DevSecOps، Bastion Host، Audit Logging، Container Hardening، WordPress Security، Traffic Masking، Secure Infrastructure</td>
 </tr>
-
 <tr>
   <td><strong>هوش مصنوعی و AI Systems</strong></td>
   <td>AI Backend Systems، Agent-based Software، Inference Pipelines، Real-time AI Processing، AI Infrastructure Design، ML/DL Runtime Systems</td>
 </tr>
-
 <tr>
   <td><strong>ابزارها و پلتفرم‌ها</strong></td>
   <td>Git، VSCode، GCP، WPScan، Telegram Bots، Monitoring Stack، Automation Tooling</td>
@@ -89,6 +79,5 @@
 
 ## 🌍 ارتباط با من
 📫 ایمیل: fvrvmvrx@gmail.com
-
 
 [🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
