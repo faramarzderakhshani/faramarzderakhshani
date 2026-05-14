@@ -26,28 +26,28 @@
 🧠 **Meta Core**  
   لایه orchestration و runtime برای مدیریت سرویس‌ها، workloadها و پردازش سیستم‌های AI و زیرساخت‌های هوشمند
 
-- 🤖 **AI Full Pack**  
+🤖 **AI Full Pack**  
   پلتفرم WordPress + AI جهت مدیریت مدل‌های هوش مصنوعی، تولید محتوا، inference و پردازش خودکار
 
-- 🔐 **XInfraSec**  
+🔐 **XInfraSec**  
   زیرساخت امن ارتباطی مبتنی بر TLS، Xray-core، reverse proxy و traffic masking برای سرویس‌های حساس شبکه
 
-- 🛰️ **InfraHub**  
+🛰️ **InfraHub**  
   معماری Multi-Tenant برای مدیریت سرویس‌ها، routing زیر دامنه‌ها و orchestration سرویس‌های سازمانی
 
-- 🛠️ **ServaNet**  
+🛠️ **ServaNet**  
   شبکه ارتباطی ایمن بین سرورهای لینوکسی خصوصی با مدیریت سرویس، تونل‌سازی و ارتباط داخلی خوشه‌ای
 
-- 🧭 **NetPilot**  
+🧭 **NetPilot**  
   سیستم DNS/Proxy Routing با تحلیل CDN، failover خودکار و مدیریت هوشمند مسیرهای شبکه
 
-- 🔐 **SSHGuard**  
+🔐 **SSHGuard**  
   سیستم مدیریت Bastion Host با audit logging، key rotation و کنترل دسترسی امن برای زیرساخت‌های لینوکسی
 
-- 🌐 **HardenWP**  
+🌐 **HardenWP**  
   زیرساخت WordPress Hardened مبتنی بر NGINX، isolation لایه‌ای، امنیت کانتینری و reverse proxy architecture
 
-- 🤖 **BotFleet**  
+🤖 **BotFleet**  
   فریمورک حرفه‌ای Telegram Bot با CI/CD، معماری ماژولار و مانیتورینگ بلادرنگ سرویس‌ها
 
 
