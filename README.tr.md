@@ -1,83 +1,128 @@
-<!-- GitHub Profil README'si - Faramarz Derakhshani -->
-<h1 align="left">Merhaba, ben Faramarz</h1>
+<!-- GitHub Profile README by Faramarz Derakhshani -->
+<h1 align="right">Merhaba, ben Faramarz Derakhshani</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;DevOps+Engineer;Linux+Automation+Expert;Clean+Architecture+Lover;Cybersecurity+Explorer&left=true&width=700&height=45">
-</p>
-
----
-
-## 🚀 Hakkımda
-
-🎯 **Temiz mimariye** sahip **ölçeklenebilir** ve **güvenli** sistemler inşa etmeye tutkuluyum  
-🔧 Modern **Linux tabanlı altyapılarda** DevOps ve otomasyon konusunda uzmanım  
-💡 **Açık kaynak**, **etik hackleme** ve **dağıtık sistemler** üzerinde sürekli keşif halindeyim
+## Hakkımda
+💡 Linux Infrastructure, Backend Systems, AI platformları, otomasyon, ölçeklenebilir yazılım mimarileri ve Cloud-Native sistem tasarımı üzerine çalışan bir DevOps Engineer ve Infrastructure Architect.
 
 ---
 
-## 🧰 Teknoloji Yığını (Tech Stack)
+## 🎯 Mühendislik Odak Alanları
+- 🧠 AI Infrastructure & Inference Systems
+- ⚙️ Linux Automation & Distributed Services
+- ☁️ Cloud-Native & Multi-Tenant Platforms
+- 🔐 DevSecOps & Secure Infrastructure
+- 🛰️ Real-time Backend & Orchestration Systems
+- 🤖 Autonomous Platforms & Agent-based Software
+- 🧩 Modular Software Architecture & Platform Engineering
+
+---
+
+## 📦 Projeler ve Altyapılar
+
+- ⚙️ **UpHide**  
+  Xray-core tabanlı VPN otomasyon ve yönetim platformu; özel API, Telegram Bot, node yönetimi ve modüler mimari içerir.
+
+- 🧠 **Meta Core**  
+  Servisleri, workload’ları, AI processing sistemlerini ve akıllı altyapıları yönetmek için orchestration ve runtime katmanı.
+
+- 🤖 **AI Full Pack**  
+  AI modelleri, içerik üretimi, inference süreçleri ve otomatik işlem sistemleri için WordPress + AI platformu.
+
+- 🔐 **XInfraSec**  
+  TLS, Xray-core, reverse proxy ve gelişmiş traffic masking teknolojileri üzerine kurulu güvenli altyapı platformu.
+
+- 🛰️ **InfraHub**  
+  Servis yönetimi, subdomain routing ve kurumsal servis orchestration için Multi-Tenant altyapı mimarisi.
+
+- 🛠️ **ServaNet**  
+  Servis yönetimi, tunneling ve cluster içi iletişim özelliklerine sahip özel Linux sunucuları için güvenli iletişim katmanı.
+
+- 🧭 **NetPilot**  
+  CDN analizi, otomatik failover ve akıllı network path yönetimi sunan DNS/Proxy routing sistemi.
+
+- 🔐 **SSHGuard**  
+  Audit logging, key rotation ve güvenli erişim kontrolü sağlayan Bastion Host yönetim sistemi.
+
+- 🌐 **HardenWP**  
+  NGINX, layered isolation, container security ve reverse proxy architecture üzerine kurulu hardened WordPress altyapısı.
+
+- 🤖 **BotFleet**  
+  CI/CD pipeline’ları, modüler mimari ve gerçek zamanlı servis izleme özelliklerine sahip profesyonel Telegram Bot framework’ü.
+
+---
+
+## 🧩 Yazılım Mimarisi ve Sistem Tasarımı
+
+- 🧱 Backend platformları için modüler ve sürdürülebilir mimariler tasarlama
+- ⚙️ Plugin-based ve API-driven sistemler geliştirme
+- ☁️ SaaS platformları ve Multi-Tenant altyapılar tasarlama
+- 🛰️ Orchestration sistemleri ve servis yönetim katmanları geliştirme
+- 🔐 DevSecOps ve secure infrastructure mimarileri uygulama
+- 🧠 AI backend sistemleri ve agent-based software geliştirme
+- ⚡ Real-time processing systems ve data pipeline’ları tasarlama
+- 🛠️ AI workload’ları için runtime layer ve servis yönetim sistemleri geliştirme
+- 📦 Cloud-Native platformlar ve infrastructure automation sistemleri oluşturma
+
+---
+
+## 🧰 Teknolojiler ve Yetkinlikler
 
 <table>
 <tr>
-  <td><strong>Diller</strong></td>
-  <td>Python, Bash, JavaScript, SQL</td>
+  <td><strong>AI & Intelligent Systems</strong></td>
+  <td>AI Backend Systems, Agent-based Software, Inference Pipelines, Real-time AI Processing, AI Infrastructure Design, ML/DL Runtime Systems</td>
 </tr>
+
 <tr>
-  <td><strong>Backend</strong></td>
-  <td>FastAPI, Flask, SQLite, PostgreSQL</td>
+  <td><strong>Backend & APIs</strong></td>
+  <td>FastAPI, Flask, Uvicorn, SQLAlchemy, REST APIs, JWT Authentication, WebSocket, Aiogram, Microservices</td>
 </tr>
+
 <tr>
-  <td><strong>DevOps</strong></td>
-  <td>Docker, Systemd, GitHub Actions, Nginx</td>
+  <td><strong>DevOps & Infrastructure</strong></td>
+  <td>Docker, NGINX, Systemd, GitHub Actions, CI/CD, Reverse Proxy, Linux Automation, Observability</td>
 </tr>
+
 <tr>
-  <td><strong>Araçlar</strong></td>
-  <td>Linux, Git, VSCode, GCP, Telegram Bot, WPScan</td>
+  <td><strong>Linux & Networking</strong></td>
+  <td>Linux Server Administration, Ubuntu/Debian, SSH, DNS Routing, VPN Infrastructure, TLS/SSL, Xray-core, CDN Detection</td>
+</tr>
+
+<tr>
+  <td><strong>Software Architecture</strong></td>
+  <td>Modular Architecture, SaaS Platforms, Multi-Tenant Systems, PaaS Design, Plugin-based Ecosystems, Cloud-Native Systems</td>
+</tr>
+
+<tr>
+  <td><strong>Security & DevSecOps</strong></td>
+  <td>DevSecOps, Bastion Hosts, Audit Logging, Container Hardening, WordPress Security, Secure Infrastructure, Traffic Masking</td>
+</tr>
+
+<tr>
+  <td><strong>Frontend</strong></td>
+  <td>React, Vite, TailwindCSS, SPA Architecture, UI Integration</td>
+</tr>
+
+<tr>
+  <td><strong>Databases</strong></td>
+  <td>PostgreSQL, SQLite, Query Optimization, Multi-Tenant Data Design</td>
+</tr>
+
+<tr>
+  <td><strong>Languages</strong></td>
+  <td>Python, Bash, JavaScript, TypeScript, SQL, HTML/CSS</td>
+</tr>
+
+<tr>
+  <td><strong>Tools & Platforms</strong></td>
+  <td>Git, VSCode, GCP, WPScan, Telegram Bots, Monitoring Stack, Automation Tooling</td>
 </tr>
 </table>
 
 ---
 
-## 📦 Projeler ve Altyapı Öne Çıkanlar
+## 🌍 İletişim
 
-- ⚙️ **UpHide** – FastAPI + Aiogram 3.21 + Xray-core ile tam otomatik VPN sistemi  
-- 🧠 **XInfraSec** – TLS, Xray-core ve gelişmiş trafik gizleme özellikli güvenli altyapı platformu  
-- 🛰️ **InfraHub** – Alt alan yönlendirmeli çok kiracılı organizasyonel iç altyapı sistemi  
-- 🛠️ **ServaNet** – Özel Linux sunucu kümeleri için güvenli temel iletişim altyapısı  
-- 🧭 **NetPilot** – CDN algılama ve yedek tünelleme ile DNS/Proxy yönlendirme sistemi  
-- 🔐 **SSHGuard** – Günlük kaydı ve anahtar döngüsü ile otomatik bastion host yöneticisi  
-- 🌐 **HardenWP** – Katmanlı kapsayıcı güvenliği ile güçlendirilmiş NGINX tabanlı WordPress hosting  
-- 🤖 **BotFleet** – CI/CD ve gözlemlenebilirlik ile üretim düzeyinde Telegram bot altyapısı
-
----
-
-## 🧩 Yazılım Mimarisi & Ürünler
-
-- 🧱 Temel **platformlar** ve **modüler sunucu taraflı frameworkler** tasarımı  
-- 🏗️ Hızlı dağıtım için yeniden kullanılabilir **temel paketler** geliştirme  
-- ⚙️ Özel API'lerle **eklentilere dayalı ekosistemler** oluşturma  
-- ☁️ **Temiz çok kiracılı yapılarla** tam SaaS ürünleri sunma  
-- 🛠️ Ölçeklenebilir dağıtım ve orkestrasyon için PaaS mikro platformlar  
-- 🧠 **Modüler, sürdürülebilir ve güvenli** sistem tasarımı  
-- 📦 Otomasyon ve gözlemlenebilirlik odaklı DevSecOps ürün yönetimi
-
----
-
-## 🌍 Benimle İletişime Geç
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/faramarz-derakhshani)  
-[![Upwork](https://img.shields.io/badge/Upwork-Freelancer-brightgreen?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01b0220ff9466dec7f)  
-📫 E-posta: fvrvmvrx@gmail.com
-
----
-
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faramarzderakhshani&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faramarzderakhshani&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
+📫 E-posta: `fvrvmvrx@gmail.com`
 
 [🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
