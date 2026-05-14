@@ -1,9 +1,9 @@
 <!-- GitHub Profile README by Faramarz Derakhshani -->
 <h1 align="right">سلام، من فرامرز درخشانی هستم 👨‍💻</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=توسعه‌دهنده+فول‌استک;مهندس+DevOps;متخصص+اتوماسیون+لینوکس;علاقه‌مند+به+معماری+تمیز;کاوشگر+امنیت+سایبری&center=true&width=700&height=45">
-</p>
+; <p align="right">
+;   <img src="https://readme-typing-svg.herokuapp.com/?lines=توسعه‌دهنده+فول‌استک;مهندس+DevOps;متخصص+اتوماسیون+لینوکس;علاقه‌مند+به+معماری+تمیز;کاوشگر+امنیت+سایبری&center=true&width=700&height=45">
+; </p>
 
 
 ## 🚀 درباره من
