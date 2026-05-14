@@ -1,87 +1,128 @@
 <!-- GitHub Profile README by Faramarz Derakhshani -->
-<h1 align="left">Hi, I'm Faramarz</h1>
+<h1 align="right">Hi, I'm Faramarz Derakhshani</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;DevOps+Engineer;Linux+Automation+Expert;Clean+Architecture+Lover;Cybersecurity+Explorer&left=true&width=700&height=45">
-</p>
-
----
-
-## 🚀 About Me
-
-🎯 Passionate about building **scalable**, **secure** systems with **clean architecture**  
-🔧 DevOps & Automation across modern **Linux-based infrastructures**  
-💡 Always exploring **open-source**, **ethical hacking**, and **distributed systems**
+## About Me
+💡 DevOps Engineer and Infrastructure Architect focused on Linux Infrastructure, Backend Systems, AI Platforms, automation, scalable software architecture, and Cloud-Native systems design.
 
 ---
 
-## 🧰 Tech Stack
+## 🎯 Engineering Focus
+- 🧠 AI Infrastructure & Inference Systems
+- ⚙️ Linux Automation & Distributed Services
+- ☁️ Cloud-Native & Multi-Tenant Platforms
+- 🔐 DevSecOps & Secure Infrastructure
+- 🛰️ Real-time Backend & Orchestration Systems
+- 🤖 Autonomous Platforms & Agent-based Software
+- 🧩 Modular Software Architecture & Platform Engineering
+
+---
+
+## 📦 Projects & Infrastructure
+
+- ⚙️ **UpHide**  
+  VPN automation and management platform powered by Xray-core with custom API, Telegram Bot, node management, and modular architecture.
+
+- 🧠 **Meta Core**  
+  Orchestration and runtime layer for managing services, workloads, AI processing systems, and intelligent infrastructure environments.
+
+- 🤖 **AI Full Pack**  
+  WordPress + AI platform for managing AI models, content generation, inference workflows, and automated processing systems.
+
+- 🔐 **XInfraSec**  
+  Secure infrastructure platform based on TLS, Xray-core, reverse proxy, and advanced traffic masking for sensitive network services.
+
+- 🛰️ **InfraHub**  
+  Multi-tenant infrastructure architecture for service management, subdomain routing, and enterprise-grade service orchestration.
+
+- 🛠️ **ServaNet**  
+  Secure communication layer for private Linux servers with service management, tunneling, and clustered internal networking.
+
+- 🧭 **NetPilot**  
+  DNS/Proxy routing system with CDN analysis, automatic failover, and intelligent network path management.
+
+- 🔐 **SSHGuard**  
+  Bastion-host management system with audit logging, key rotation, and secure access control for Linux infrastructure.
+
+- 🌐 **HardenWP**  
+  Hardened WordPress infrastructure powered by NGINX, layered isolation, container security, and reverse proxy architecture.
+
+- 🤖 **BotFleet**  
+  Professional Telegram Bot framework with CI/CD pipelines, modular architecture, and real-time service monitoring.
+
+---
+
+## 🧩 Software Architecture & System Design
+
+- 🧱 Designing modular and maintainable architectures for backend platforms
+- ⚙️ Building plugin-based and API-driven systems
+- ☁️ Designing SaaS platforms and multi-tenant infrastructures
+- 🛰️ Developing orchestration systems and service management layers
+- 🔐 Implementing DevSecOps and secure infrastructure architectures
+- 🧠 Developing AI backend systems and agent-based software
+- ⚡ Designing real-time processing systems and data pipelines
+- 🛠️ Building runtime layers and service management systems for AI workloads
+- 📦 Developing Cloud-Native platforms and infrastructure automation systems
+
+---
+
+## 🧰 Technologies & Skills
 
 <table>
 <tr>
+  <td><strong>AI & Intelligent Systems</strong></td>
+  <td>AI Backend Systems, Agent-based Software, Inference Pipelines, Real-time AI Processing, AI Infrastructure Design, ML/DL Runtime Systems</td>
+</tr>
+
+<tr>
+  <td><strong>Backend & APIs</strong></td>
+  <td>FastAPI, Flask, Uvicorn, SQLAlchemy, REST APIs, JWT Authentication, WebSocket, Aiogram, Microservices</td>
+</tr>
+
+<tr>
+  <td><strong>DevOps & Infrastructure</strong></td>
+  <td>Docker, NGINX, Systemd, GitHub Actions, CI/CD, Reverse Proxy, Linux Automation, Observability</td>
+</tr>
+
+<tr>
+  <td><strong>Linux & Networking</strong></td>
+  <td>Linux Server Administration, Ubuntu/Debian, SSH, DNS Routing, VPN Infrastructure, TLS/SSL, Xray-core, CDN Detection</td>
+</tr>
+
+<tr>
+  <td><strong>Software Architecture</strong></td>
+  <td>Modular Architecture, SaaS Platforms, Multi-Tenant Systems, PaaS Design, Plugin-based Ecosystems, Cloud-Native Systems</td>
+</tr>
+
+<tr>
+  <td><strong>Security & DevSecOps</strong></td>
+  <td>DevSecOps, Bastion Hosts, Audit Logging, Container Hardening, WordPress Security, Secure Infrastructure, Traffic Masking</td>
+</tr>
+
+<tr>
+  <td><strong>Frontend</strong></td>
+  <td>React, Vite, TailwindCSS, SPA Architecture, UI Integration</td>
+</tr>
+
+<tr>
+  <td><strong>Databases</strong></td>
+  <td>PostgreSQL, SQLite, Query Optimization, Multi-Tenant Data Design</td>
+</tr>
+
+<tr>
   <td><strong>Languages</strong></td>
-  <td>Python, Bash, JavaScript, SQL</td>
+  <td>Python, Bash, JavaScript, TypeScript, SQL, HTML/CSS</td>
 </tr>
+
 <tr>
-  <td><strong>Backend</strong></td>
-  <td>FastAPI, Flask, SQLite, PostgreSQL</td>
-</tr>
-<tr>
-  <td><strong>DevOps</strong></td>
-  <td>Docker, Systemd, GitHub Actions, Nginx</td>
-</tr>
-<tr>
-  <td><strong>Tools</strong></td>
-  <td>Linux, Git, VSCode, GCP, Telegram Bot, WPScan</td>
+  <td><strong>Tools & Platforms</strong></td>
+  <td>Git, VSCode, GCP, WPScan, Telegram Bots, Monitoring Stack, Automation Tooling</td>
 </tr>
 </table>
 
 ---
 
-## 📦 Projects & Infrastructure Highlights
+## 🌍 Contact
 
-- ⚙️ **UpHide** – Fully automated VPN system with FastAPI + Aiogram 3.21 + Xray-core  
-- 🧠 **XInfraSec** – Hardened infrastructure platform with TLS, Xray-core & advanced traffic masking  
-- 🛰️ **InfraHub** – Internal infrastructure for organizational multi-tenant services with subdomain routing  
-- 🛠️ **ServaNet** – Secure base communication infrastructure for private Linux server clusters  
-- 🧭 **NetPilot** – DNS/Proxy auto-routing system with CDN detection and fallback tunneling  
-- 🔐 **SSHGuard** – Automated bastion-host manager with audit logging and key rotation  
-- 🌐 **HardenWP** – Hardened NGINX-based WordPress hosting with layered container security  
-- 🤖 **BotFleet** – Production-grade Telegram Bot framework with CI/CD & observability built-in  
-
----
-
-## 🧩 Software Architecture & Products
-
-- 🧱 Designing base **platforms** and **modular server-side frameworks**
-- 🏗️ Building reusable **foundation packages** for rapid deployment
-- ⚙️ Developing **plugin-based ecosystems** with custom APIs
-- ☁️ Delivering full SaaS products with **clean multi-tenant structure**
-- 🛠️ PaaS microplatforms for scalable deployment and orchestration
-- 🧠 System-level design for **modular, maintainable**, and **secure** software
-- 📦 DevSecOps-driven product management with automation and observability
-
----
-
-## 🌍 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/faramarz-derakhshani)  
-[![Upwork](https://img.shields.io/badge/Upwork-Freelancer-brightgreen?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01b0220ff9466dec7f)  
-📫 Email: fvrvmvrx@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faramarzderakhshani&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faramarzderakhshani&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-<p align="center">
-  <i>“Clean systems don't need complex fixes.” – Me</i>
-</p>
+📫 Email: `fvrvmvrx@gmail.com`
 
 [🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
