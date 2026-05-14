@@ -6,9 +6,9 @@
   💡 مهندس DevOps و معمار زیرساخت با تمرکز بر Linux Infrastructure، Backend Systems، AI Platforms، اتوماسیون، معماری نرم‌افزارهای مقیاس‌پذیر و طراحی سیستم‌های Cloud-Native
 </p>
 
----
 
-## 🎯 حوزه تمرکز مهندسی
+<h2 style="text-align: right; direction: rtl;">حوزه تمرکز مهندسی</h2>
+
 - 🧠 AI Infrastructure & Inference Systems
 - ⚙️ Linux Automation & Distributed Services
 - ☁️ Cloud-Native & Multi-Tenant Platforms
@@ -17,23 +17,21 @@
 - 🤖 Autonomous Platforms & Agent-based Software
 - 🧩 Modular Software Architecture & Platform Engineering
 
----
 
 
-## 📦 پروژه‌ها و زیرساخت‌ها
+<h2 style="text-align: right; direction: rtl;">📦 پروژه‌ها و زیرساخت‌ها</h2>
 
 <div style="text-align: right; direction: rtl;">
-  <p style="text-align: right; direction: rtl;">
-    ⚙️ **UpHide**  
-      پلتفرم مدیریت و اتوماسیون شبکه‌های VPN مبتنی بر Xray-core با API اختصاصی، Telegram Bot، مدیریت نود و معماری ماژولار
-
-  </p>
-
-🧠 **Meta Core**  
-  لایه orchestration و runtime برای مدیریت سرویس‌ها، workloadها و پردازش سیستم‌های AI و زیرساخت‌های هوشمند
-
-🤖 **AI Full Pack**  
-  پلتفرم WordPress + AI جهت مدیریت مدل‌های هوش مصنوعی، تولید محتوا، inference و پردازش خودکار
+<p style="text-align: right; direction: rtl;">
+  <strong>آپ هاید UpHide</strong><br> پلتفرم مدیریت و اتوماسیون شبکه‌های VPN مبتنی بر Xray-core با API اختصاصی، Telegram Bot، مدیریت نود و معماری ماژولار
+</p>
+<p style="text-align: right; direction: rtl;">
+  <strong>متا کور Meta Core</strong><br> لایه orchestration و runtime برای مدیریت سرویس‌ها، workloadها و پردازش سیستم‌های AI و زیرساخت‌های هوشمند
+</p>
+<p style="text-align: right; direction: rtl;">
+  <strong>ای آی فول پک AI Full Pack</strong><br>  پلتفرم WordPress + AI جهت مدیریت مدل‌های هوش مصنوعی، تولید محتوا، inference و پردازش خودکار
+</p>
+  
 
 🔐 **XInfraSec**  
   زیرساخت امن ارتباطی مبتنی بر TLS، Xray-core، reverse proxy و traffic masking برای سرویس‌های حساس شبکه
@@ -55,7 +53,6 @@
 
 🤖 **BotFleet**  
   فریمورک حرفه‌ای Telegram Bot با CI/CD، معماری ماژولار و مانیتورینگ بلادرنگ سرویس‌ها
-
 </div>
 
 
@@ -66,7 +63,6 @@
 </tr>
 </table>
 
----
 
 ## 🧩 معماری نرم‌افزار و طراحی سیستم
 
@@ -80,11 +76,10 @@
 - 🛠️ توسعه Runtime Layer و Service Management برای سرویس‌های AI
 - 📦 طراحی پلتفرم‌های Cloud-Native و Infrastructure Automation
 
----
 
 ## 🧰 تکنولوژی‌ها و مهارت‌ها
 
-<table>
+<table style="text-align: right; direction: rtl;">
 <tr>
   <td><strong>هوش مصنوعی و AI Systems</strong></td>
   <td>AI Backend Systems، Agent-based Software، Inference Pipelines، Real-time AI Processing، AI Infrastructure Design، ML/DL Runtime Systems</td>
@@ -136,7 +131,6 @@
 </tr>
 </table>
 
----
 
 ## 🌍 ارتباط با من
 
