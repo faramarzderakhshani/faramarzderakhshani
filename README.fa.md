@@ -16,7 +16,7 @@
 - 🧩 Modular Software Architecture & Platform Engineering
 
 ---
-<div dir="rtl" style="text-align: right;">
+<div dir="rtl" style="text-align: right;" align="right">
 
 ## 📦 پروژه‌ها و زیرساخت‌ها
 
