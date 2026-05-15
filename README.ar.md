@@ -1,81 +1,96 @@
-<!-- GitHub Profile README by Faramarz Derakhshani -->
-<h1 align="right">مرحبًا، أنا فرامرز درخشاني</h1>
+<div style="text-align: right; direction: rtl;">
+
+<h1>مرحباً، أنا فرامرز درخشاني</h1>
 
 ## نبذة عني
-💡 مهندس DevOps ومهندس بنية تحتية متخصص في Linux Infrastructure وBackend Systems ومنصات الذكاء الاصطناعي والأتمتة وتصميم الأنظمة القابلة للتوسع والبنى Cloud-Native.
 
----
+<p>
+💡 مهندس DevOps ومعماري بنية تحتية مع تركيز على Linux Infrastructure، أنظمة Backend، منصات الذكاء الاصطناعي، الأتمتة، هندسة البرمجيات القابلة للتوسع، وتصميم الأنظمة السحابية الحديثة
+</p>
 
-## 🎯 مجالات التركيز الهندسي
-- 🧠 بنية الذكاء الاصطناعي وأنظمة Inference
-- ⚙️ أتمتة لينكس والخدمات الموزعة
-- ☁️ منصات Cloud-Native وMulti-Tenant
-- 🔐 DevSecOps والبنى التحتية الآمنة
-- 🛰️ أنظمة Backend اللحظية وOrchestration
-- 🤖 المنصات الذاتية والبرمجيات المعتمدة على الوكلاء
-- 🧩 هندسة المنصات والمعمارية البرمجية المعيارية
+<br><br>
 
----
+<h2>مجالات التركيز الهندسي</h2>
 
-## 📦 المشاريع والبنية التحتية
+- 🧠 AI Infrastructure & Inference Systems  
+- ⚙️ Linux Automation & Distributed Services  
+- ☁️ Cloud-Native & Multi-Tenant Platforms  
+- 🔐 DevSecOps & Secure Infrastructure  
+- 🛰️ Real-time Backend & Orchestration Systems  
+- 🤖 Autonomous Platforms & Agent-based Software  
+- 🧩 Modular Software Architecture & Platform Engineering  
 
-- ⚙️ **UpHide**  
-  منصة لإدارة وأتمتة شبكات VPN تعتمد على Xray-core مع API مخصص وTelegram Bot وإدارة للعقد وبنية معيارية.
+<br><br>
 
-- 🧠 **Meta Core**  
-  طبقة orchestration وruntime لإدارة الخدمات وworkloads وأنظمة معالجة الذكاء الاصطناعي والبنى التحتية الذكية.
+<h2>📦 المشاريع والبنية التحتية</h2>
 
-- 🤖 **AI Full Pack**  
-  منصة WordPress + AI لإدارة نماذج الذكاء الاصطناعي وتوليد المحتوى وعمليات inference وأنظمة المعالجة المؤتمتة.
+<p><strong>UpHide</strong><br>
+منصة إدارة وأتمتة شبكات VPN مبنية على Xray-core مع واجهات API مخصصة، تكامل Telegram Bot، إدارة العقد، ومعمارية معيارية قابلة للتوسع
+</p>
 
-- 🔐 **XInfraSec**  
-  منصة بنية تحتية آمنة تعتمد على TLS وXray-core وreverse proxy وتقنيات متقدمة لإخفاء حركة المرور للخدمات الحساسة.
+<p><strong>Meta Core</strong><br>
+طبقة orchestration و runtime لإدارة الخدمات، workloads، وأنظمة البنية التحتية المعتمدة على الذكاء الاصطناعي
+</p>
 
-- 🛰️ **InfraHub**  
-  معمارية Multi-Tenant لإدارة الخدمات وتوجيه النطاقات الفرعية وorchestration للخدمات المؤسسية.
+<p><strong>AI Full Pack</strong><br>
+منصة WordPress + AI لإدارة النماذج، توليد المحتوى، inference، ومعالجة العمليات بشكل آلي
+</p>
 
-- 🛠️ **ServaNet**  
-  طبقة اتصال آمنة بين خوادم لينكس الخاصة مع إدارة الخدمات والأنفاق الشبكية والتواصل الداخلي العنقودي.
+<p><strong>XInfraSec</strong><br>
+بنية تحتية آمنة للاتصالات تعتمد على TLS و Xray-core و reverse proxy و traffic masking للخدمات الحساسة
+</p>
 
-- 🧭 **NetPilot**  
-  نظام DNS/Proxy Routing مع تحليل CDN وfailover تلقائي وإدارة ذكية لمسارات الشبكة.
+<p><strong>InfraHub</strong><br>
+معمارية Multi-Tenant لإدارة الخدمات، توجيه النطاقات الفرعية، وأتمتة orchestration للأنظمة المؤسسية
+</p>
 
-- 🔐 **SSHGuard**  
-  نظام لإدارة Bastion Hosts مع audit logging وتدوير المفاتيح والتحكم الآمن بالوصول للبنى التحتية.
+<p><strong>ServaNet</strong><br>
+شبكة خوادم خاصة آمنة مع إدارة الخدمات، tunneling، واتصال داخلي عنقودي بين عقد Linux
+</p>
 
-- 🌐 **HardenWP**  
-  بنية WordPress محصنة تعتمد على NGINX والعزل متعدد الطبقات وأمن الحاويات وreverse proxy architecture.
+<p><strong>NetPilot</strong><br>
+نظام DNS/Proxy Routing مع تحليل CDN، failover تلقائي، وإدارة ذكية لمسارات الشبكة
+</p>
 
-- 🤖 **BotFleet**  
-  إطار عمل احترافي لبوتات Telegram مع CI/CD وبنية معيارية ومراقبة آنية للخدمات.
+<p><strong>SSHGuard</strong><br>
+نظام إدارة Bastion Host مع سجل تدقيق (audit logging)، تدوير المفاتيح، والتحكم الآمن في الوصول للبنية التحتية
+</p>
 
----
+<p><strong>HardenWP</strong><br>
+بنية WordPress مؤمنة تعتمد على NGINX مع عزل طبقي، أمان الحاويات، ومعمارية reverse proxy
+</p>
 
-## 🧩 هندسة البرمجيات وتصميم الأنظمة
+<p><strong>BotFleet</strong><br>
+إطار عمل متقدم لروبوتات Telegram مع CI/CD، بنية معيارية، ومراقبة آنية للخدمات
+</p>
 
-- 🧱 تصميم معماريات معيارية وقابلة للصيانة لمنصات Backend
-- ⚙️ تطوير أنظمة Plugin-based وAPI-driven
-- ☁️ تصميم منصات SaaS وبنى Multi-Tenant
-- 🛰️ تطوير أنظمة orchestration وطبقات إدارة الخدمات
-- 🔐 تنفيذ معماريات DevSecOps والبنى التحتية الآمنة
-- 🧠 تطوير أنظمة AI Backend وبرمجيات Agent-based
-- ⚡ تصميم أنظمة المعالجة اللحظية وData Pipelines
-- 🛠️ بناء Runtime Layers وأنظمة إدارة الخدمات لأحمال الذكاء الاصطناعي
-- 📦 تطوير منصات Cloud-Native وأنظمة أتمتة البنية التحتية
+<br><br>
 
----
+<h2>🧩 هندسة البرمجيات وتصميم الأنظمة</h2>
 
-## 🧰 التقنيات والمهارات
+<p>🧱 هندسة معيارية وقابلة للصيانة لمنصات Backend</p>
+<p>⚙️ أنظمة Plugin-based و API-driven</p>
+<p>☁️ منصات SaaS وبنى Multi-Tenant</p>
+<p>🛰️ إدارة الخدمات و orchestration</p>
+<p>🔐 DevSecOps وبنية تحتية آمنة</p>
+<p>🧠 أنظمة AI Backend و Agent-based Software</p>
+<p>⚡ أنظمة معالجة لحظية (Real-time Processing)</p>
+<p>🛠️ طبقة Runtime وإدارة خدمات الذكاء الاصطناعي</p>
+<p>📦 Cloud-Native وأتمتة البنية التحتية</p>
+
+<br><br>
+
+<h2>🧰 التقنيات والمهارات</h2>
 
 <table>
 <tr>
-  <td><strong>الذكاء الاصطناعي والأنظمة الذكية</strong></td>
+  <td><strong>أنظمة الذكاء الاصطناعي</strong></td>
   <td>AI Backend Systems, Agent-based Software, Inference Pipelines, Real-time AI Processing, AI Infrastructure Design, ML/DL Runtime Systems</td>
 </tr>
 
 <tr>
-  <td><strong>Backend وAPIs</strong></td>
-  <td>FastAPI, Flask, Uvicorn, SQLAlchemy, REST APIs, JWT Authentication, WebSocket, Aiogram, Microservices</td>
+  <td><strong>الواجهة الخلفية و APIs</strong></td>
+  <td>FastAPI, Flask, Uvicorn, SQLAlchemy, REST APIs, JWT Auth, WebSocket, Aiogram, Microservices</td>
 </tr>
 
 <tr>
@@ -85,27 +100,27 @@
 
 <tr>
   <td><strong>لينكس والشبكات</strong></td>
-  <td>Linux Server Administration, Ubuntu/Debian, SSH, DNS Routing, VPN Infrastructure, TLS/SSL, Xray-core, CDN Detection</td>
+  <td>Linux Server Administration (Ubuntu/Debian), SSH, DNS Routing, VPN Infrastructure, TLS/SSL, Xray-core</td>
 </tr>
 
 <tr>
   <td><strong>هندسة البرمجيات</strong></td>
-  <td>Modular Architecture, SaaS Platforms, Multi-Tenant Systems, PaaS Design, Plugin-based Ecosystems, Cloud-Native Systems</td>
+  <td>Modular Architecture, SaaS Platforms, Multi-Tenant Systems, PaaS Design, Plugin-based Systems</td>
 </tr>
 
 <tr>
-  <td><strong>الأمن وDevSecOps</strong></td>
-  <td>DevSecOps, Bastion Hosts, Audit Logging, Container Hardening, WordPress Security, Secure Infrastructure, Traffic Masking</td>
+  <td><strong>الأمن و DevSecOps</strong></td>
+  <td>DevSecOps, Bastion Host, Audit Logging, Container Hardening, WordPress Security, Traffic Masking</td>
 </tr>
 
 <tr>
-  <td><strong>Frontend</strong></td>
-  <td>React, Vite, TailwindCSS, SPA Architecture, UI Integration</td>
+  <td><strong>الواجهة الأمامية</strong></td>
+  <td>React, Vite, TailwindCSS, SPA Architecture</td>
 </tr>
 
 <tr>
   <td><strong>قواعد البيانات</strong></td>
-  <td>PostgreSQL, SQLite, Query Optimization, Multi-Tenant Data Design</td>
+  <td>PostgreSQL, SQLite, Query Optimization, Multi-Tenant Design</td>
 </tr>
 
 <tr>
@@ -114,15 +129,19 @@
 </tr>
 
 <tr>
-  <td><strong>الأدوات والمنصات</strong></td>
-  <td>Git, VSCode, GCP, WPScan, Telegram Bots, Monitoring Stack, Automation Tooling</td>
+  <td><strong>الأدوات</strong></td>
+  <td>Git, VSCode, GCP, WPScan, Telegram Bots, Monitoring Stack</td>
 </tr>
 </table>
 
----
+<br><br>
 
-## 🌍 التواصل
+<h2>🌍 التواصل</h2>
 
-📫 البريد الإلكتروني: `fvrvmvrx@gmail.com`
+📫 البريد الإلكتروني: <code>fvrvmvrx@gmail.com</code>
 
-[🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
+<br><br>
+
+🇺🇸 English | 🇮🇷 Persian | 🇸🇦 Arabic | 🇹🇷 Turkish | 🇷🇺 Russian | 🇪🇸 Spanish | 🇫🇷 French
+
+</div>
