@@ -1,81 +1,96 @@
-<!-- GitHub Profile README by Faramarz Derakhshani -->
-<h1 align="left">Hi, I'm Faramarz Derakhshani</h1>
+<div style="text-align: left; direction: ltr;">
+
+<h1>Hello, I'm Faramarz Darakhshani</h1>
 
 ## About Me
-💡 DevOps Engineer and Infrastructure Architect focused on Linux Infrastructure, Backend Systems, AI Platforms, automation, scalable software architecture, and Cloud-Native systems design.
 
----
+<p>
+💡 DevOps Engineer and Infrastructure Architect focused on Linux Infrastructure, Backend Systems, AI Platforms, Automation, Scalable Software Architecture, and Cloud-Native System Design
+</p>
 
-## 🎯 Engineering Focus
-- 🧠 AI Infrastructure & Inference Systems
-- ⚙️ Linux Automation & Distributed Services
-- ☁️ Cloud-Native & Multi-Tenant Platforms
-- 🔐 DevSecOps & Secure Infrastructure
-- 🛰️ Real-time Backend & Orchestration Systems
-- 🤖 Autonomous Platforms & Agent-based Software
-- 🧩 Modular Software Architecture & Platform Engineering
+<br><br>
 
----
+<h2>Engineering Focus Areas</h2>
 
-## 📦 Projects & Infrastructure
+- 🧠 AI Infrastructure & Inference Systems  
+- ⚙️ Linux Automation & Distributed Services  
+- ☁️ Cloud-Native & Multi-Tenant Platforms  
+- 🔐 DevSecOps & Secure Infrastructure  
+- 🛰️ Real-time Backend & Orchestration Systems  
+- 🤖 Autonomous Platforms & Agent-based Software  
+- 🧩 Modular Software Architecture & Platform Engineering  
 
-- ⚙️ **UpHide**  
-  VPN automation and management platform powered by Xray-core with custom API, Telegram Bot, node management, and modular architecture.
+<br><br>
 
-- 🧠 **Meta Core**  
-  Orchestration and runtime layer for managing services, workloads, AI processing systems, and intelligent infrastructure environments.
+<h2>📦 Projects & Infrastructure</h2>
 
-- 🤖 **AI Full Pack**  
-  WordPress + AI platform for managing AI models, content generation, inference workflows, and automated processing systems.
+<p><strong>UpHide</strong><br>
+VPN management and automation platform based on Xray-core with custom APIs, Telegram Bot integration, node management, and modular architecture
+</p>
 
-- 🔐 **XInfraSec**  
-  Secure infrastructure platform based on TLS, Xray-core, reverse proxy, and advanced traffic masking for sensitive network services.
+<p><strong>Meta Core</strong><br>
+Orchestration and runtime layer for managing services, workloads, and AI-driven infrastructure systems
+</p>
 
-- 🛰️ **InfraHub**  
-  Multi-tenant infrastructure architecture for service management, subdomain routing, and enterprise-grade service orchestration.
+<p><strong>AI Full Pack</strong><br>
+WordPress + AI platform for model management, content generation, inference, and automated processing workflows
+</p>
 
-- 🛠️ **ServaNet**  
-  Secure communication layer for private Linux servers with service management, tunneling, and clustered internal networking.
+<p><strong>XInfraSec</strong><br>
+Secure communication infrastructure based on TLS, Xray-core, reverse proxy, and traffic masking for sensitive network services
+</p>
 
-- 🧭 **NetPilot**  
-  DNS/Proxy routing system with CDN analysis, automatic failover, and intelligent network path management.
+<p><strong>InfraHub</strong><br>
+Multi-Tenant architecture for service management, subdomain routing, and orchestration of enterprise systems
+</p>
 
-- 🔐 **SSHGuard**  
-  Bastion-host management system with audit logging, key rotation, and secure access control for Linux infrastructure.
+<p><strong>ServaNet</strong><br>
+Secure private server network with service management, tunneling, and clustered internal communication between Linux nodes
+</p>
 
-- 🌐 **HardenWP**  
-  Hardened WordPress infrastructure powered by NGINX, layered isolation, container security, and reverse proxy architecture.
+<p><strong>NetPilot</strong><br>
+DNS/Proxy routing system with CDN analysis, automatic failover, and intelligent network path management
+</p>
 
-- 🤖 **BotFleet**  
-  Professional Telegram Bot framework with CI/CD pipelines, modular architecture, and real-time service monitoring.
+<p><strong>SSHGuard</strong><br>
+Bastion host management system with audit logging, key rotation, and secure access control for Linux infrastructure
+</p>
 
----
+<p><strong>HardenWP</strong><br>
+Hardened WordPress infrastructure based on NGINX with layered isolation, container security, and reverse proxy architecture
+</p>
 
-## 🧩 Software Architecture & System Design
+<p><strong>BotFleet</strong><br>
+Advanced Telegram Bot framework with CI/CD, modular architecture, and real-time service monitoring
+</p>
 
-- 🧱 Designing modular and maintainable architectures for backend platforms
-- ⚙️ Building plugin-based and API-driven systems
-- ☁️ Designing SaaS platforms and multi-tenant infrastructures
-- 🛰️ Developing orchestration systems and service management layers
-- 🔐 Implementing DevSecOps and secure infrastructure architectures
-- 🧠 Developing AI backend systems and agent-based software
-- ⚡ Designing real-time processing systems and data pipelines
-- 🛠️ Building runtime layers and service management systems for AI workloads
-- 📦 Developing Cloud-Native platforms and infrastructure automation systems
+<br><br>
 
----
+<h2>🧩 Software Architecture & System Design</h2>
 
-## 🧰 Technologies & Skills
+<p>🧱 Modular and maintainable backend platform architecture</p>
+<p>⚙️ Plugin-based and API-driven systems</p>
+<p>☁️ SaaS platforms and Multi-Tenant infrastructures</p>
+<p>🛰️ Service orchestration and system management</p>
+<p>🔐 DevSecOps and secure infrastructure design</p>
+<p>🧠 AI backend systems and agent-based software</p>
+<p>⚡ Real-time processing systems and data pipelines</p>
+<p>🛠️ Runtime layer and AI service management systems</p>
+<p>📦 Cloud-native architecture and infrastructure automation</p>
+
+<br><br>
+
+<h2>🧰 Technologies & Skills</h2>
 
 <table>
 <tr>
-  <td><strong>AI & Intelligent Systems</strong></td>
+  <td><strong>AI Systems</strong></td>
   <td>AI Backend Systems, Agent-based Software, Inference Pipelines, Real-time AI Processing, AI Infrastructure Design, ML/DL Runtime Systems</td>
 </tr>
 
 <tr>
   <td><strong>Backend & APIs</strong></td>
-  <td>FastAPI, Flask, Uvicorn, SQLAlchemy, REST APIs, JWT Authentication, WebSocket, Aiogram, Microservices</td>
+  <td>FastAPI, Flask, Uvicorn, SQLAlchemy, REST APIs, JWT Auth, WebSocket, Aiogram, Microservices</td>
 </tr>
 
 <tr>
@@ -85,27 +100,27 @@
 
 <tr>
   <td><strong>Linux & Networking</strong></td>
-  <td>Linux Server Administration, Ubuntu/Debian, SSH, DNS Routing, VPN Infrastructure, TLS/SSL, Xray-core, CDN Detection</td>
+  <td>Linux Server Administration (Ubuntu/Debian), SSH, DNS Routing, VPN Infrastructure, TLS/SSL, Xray-core</td>
 </tr>
 
 <tr>
   <td><strong>Software Architecture</strong></td>
-  <td>Modular Architecture, SaaS Platforms, Multi-Tenant Systems, PaaS Design, Plugin-based Ecosystems, Cloud-Native Systems</td>
+  <td>Modular Architecture, SaaS Platforms, Multi-Tenant Systems, PaaS Design, Plugin-based Systems</td>
 </tr>
 
 <tr>
   <td><strong>Security & DevSecOps</strong></td>
-  <td>DevSecOps, Bastion Hosts, Audit Logging, Container Hardening, WordPress Security, Secure Infrastructure, Traffic Masking</td>
+  <td>DevSecOps, Bastion Host, Audit Logging, Container Hardening, WordPress Security, Traffic Masking</td>
 </tr>
 
 <tr>
   <td><strong>Frontend</strong></td>
-  <td>React, Vite, TailwindCSS, SPA Architecture, UI Integration</td>
+  <td>React, Vite, TailwindCSS, SPA Architecture</td>
 </tr>
 
 <tr>
   <td><strong>Databases</strong></td>
-  <td>PostgreSQL, SQLite, Query Optimization, Multi-Tenant Data Design</td>
+  <td>PostgreSQL, SQLite, Query Optimization, Multi-Tenant Design</td>
 </tr>
 
 <tr>
@@ -114,15 +129,19 @@
 </tr>
 
 <tr>
-  <td><strong>Tools & Platforms</strong></td>
-  <td>Git, VSCode, GCP, WPScan, Telegram Bots, Monitoring Stack, Automation Tooling</td>
+  <td><strong>Tools</strong></td>
+  <td>Git, VSCode, GCP, WPScan, Telegram Bots, Monitoring Stack</td>
 </tr>
 </table>
 
----
+<br><br>
 
-## 🌍 Contact
+<h2>🌍 Contact</h2>
 
-📫 Email: `fvrvmvrx@gmail.com`
+📫 Email: <code>fvrvmvrx@gmail.com</code>
 
-[🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
+<br><br>
+
+🇺🇸 English | 🇮🇷 Persian | 🇸🇦 Arabic | 🇹🇷 Turkish | 🇷🇺 Russian | 🇪🇸 Spanish | 🇫🇷 French
+
+</div>
