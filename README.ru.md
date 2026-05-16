@@ -140,7 +140,6 @@ DNS/Proxy routing система с анализом CDN, автоматичес
 📫 Email: `fvrvmvrx@gmail.com`
 
 <br><br>
-
-[🇺🇸 English](./README.md) | [🇮🇷 Персидский](./README.fa.md) | [🇸🇦 Арабский](./README.ar.md) | [🇹🇷 Турецкий](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Испанский](./README.es.md) | [🇫🇷 Французский](./README.fr.md)
+[🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
 
 </div>
