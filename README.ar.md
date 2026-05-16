@@ -142,6 +142,5 @@
 
 <br><br>
 
-🇺🇸 English | 🇮🇷 Persian | 🇸🇦 Arabic | 🇹🇷 Turkish | 🇷🇺 Russian | 🇪🇸 Spanish | 🇫🇷 French
-
+[🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
 </div>
