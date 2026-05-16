@@ -141,7 +141,7 @@ Framework avancé de bots Telegram avec CI/CD, architecture modulaire et monitor
 
 <br><br>
 
-[🇺🇸 English](./README.md) | [🇮🇷 Persan](./README.fa.md) | [🇸🇦 Arabe](./README.ar.md) | [🇹🇷 Turc](./README.tr.md) | [🇷🇺 Russe](./README.ru.md) | [🇪🇸 Espagnol](./README.es.md) | [🇫🇷 Français](./README.fr.md)
+[🇺🇸 English](./README.md) | [🇮🇷 فارسی](./README.fa.md) | [🇸🇦 Arabic](./README.ar.md) | [🇹🇷 Türkçe](./README.tr.md) | [🇷🇺 Русский](./README.ru.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
 
 
 </div>
